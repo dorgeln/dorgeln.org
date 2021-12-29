@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Dorgeln</title>
+        <link>https://dorgeln.org</link>
+        <description></description>
+        <lastBuildDate>Wed, 29 Dec 2021 15:35:06 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Markdown examples]]></title>
+            <link>https://dorgeln.org/markdown</link>
+            <guid>https://dorgeln.org/markdown</guid>
+            <pubDate>Fri, 18 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Headings, links, lists, images and code blocks examples]]></description>
+            <content:encoded><![CDATA[Headings, links, lists, images and code blocks examples]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Components]]></title>
+            <link>https://dorgeln.org/components</link>
+            <guid>https://dorgeln.org/components</guid>
+            <pubDate>Thu, 17 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Alert, CodeGroup and CodeSandbox examples]]></description>
+            <content:encoded><![CDATA[Alert, CodeGroup and CodeSandbox examples]]></content:encoded>
+        </item>
+    </channel>
+</rss>
