@@ -6,10 +6,14 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
     "@jsilva-pt/nuxt-content-theme-blog": "^0.6.1",
     "nuxt": "^2.15.1"
+  },
+  "devDependencies": {
+    "push-dir": "^0.4.1"
   }
 }
