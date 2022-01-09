@@ -2,7 +2,7 @@ export const footerLinks = {
   social: [
     {
       text: 'Github',
-      href: 'https://github.com/atrawog/',
+      href: 'https://github.com/dorgeln/dorgeln.org',
     },
     {
       text: 'RSS',
